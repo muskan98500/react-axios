@@ -1,0 +1,8 @@
+.Output{
+    height:8vh;
+    width:70vw;
+    margin-left: 12%;
+    border: 3px solid blue;
+    padding-top:25px;
+    border-radius: 8px;
+}
